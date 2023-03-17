@@ -42,6 +42,7 @@ const App = () => {
           currencyConvert={currencyConvert}
         />
         <Switch>
+        //Router
           <Route exact path="/">
             <HomePage />
           </Route>
